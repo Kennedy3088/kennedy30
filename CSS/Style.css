@@ -1,6 +1,9 @@
 p{
  font-size: 32px;
 }
+#colonne{
+    columns: 3;
+}
 span{
 display: inline;
 }
@@ -12,4 +15,7 @@ display: inline;
     border-radius: 7px;
     margin: 16px;
     padding: 24px;
+}
+div{
+    display: inline-block;
 }
